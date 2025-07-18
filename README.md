@@ -1,4 +1,4 @@
-# yolo_bigmap
+# yolo_bigmap and weed_detection
 
 The project provides a tool to generate synthetic farmland datasets for weed detection.
 
